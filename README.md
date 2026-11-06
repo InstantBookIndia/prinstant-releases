@@ -19,12 +19,14 @@ never installed.
 
 | Release | Purpose |
 |---|---|
-| `desktop-vX.Y.Z` | A desktop app version (pre-releases are test builds) |
+| `desktop-vX.Y.Z` | A desktop app version |
 | `desktop-prod-channel` | What shop PCs update to. Do not delete. |
-| `desktop-dev-channel` | What test PCs update to. Do not delete. |
-| `kiosk-vX.Y.Z` | A kiosk app version (pre-releases are test builds) |
+| `kiosk-vX.Y.Z` | A kiosk app version |
 | `kiosk-prod-channel` | What shop kiosks update to. Do not delete. |
-| `kiosk-dev-channel` | What test kiosks update to. Do not delete. |
+
+Test builds are published separately to
+[prinstant-releases-dev](https://github.com/InstantBookIndia/prinstant-releases-dev); this repository only holds the
+builds for shops.
 
 ## Notes
 
